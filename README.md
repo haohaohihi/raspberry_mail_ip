@@ -1,0 +1,2 @@
+# raspberry_mail_ip
+树莓派开机时自动发送当前ip地址到邮箱
