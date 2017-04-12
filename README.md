@@ -1,6 +1,9 @@
 # raspberry_mail_ip
 树莓派开机时自动发送当前ip地址到邮箱
 
+需要安装mail：
+sudo apt-get install mail
+
 设置开机自启动：
 vi /etc/rc.local
 
